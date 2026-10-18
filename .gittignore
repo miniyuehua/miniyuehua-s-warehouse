@@ -1,0 +1,8 @@
+# Python 运行缓存目录
+__pycache__/
+
+# VSCode 编辑器配置目录
+.vscode/
+
+# 项目构建输出目录
+build/
